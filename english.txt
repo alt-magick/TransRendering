@@ -1,0 +1,518 @@
+un:a
+capaces:able
+acerca:about
+realidad:actually
+después:after
+nuevo:again
+acordado:agreed
+todo:all
+casi:almost
+ya:already
+también:also
+aunque:although
+siempre:always
+am:am
+un:an
+y:and
+otra:another
+respuesta:answer
+cualquier:any
+más:anymore
+nadie:anyone
+nada:anything
+de todos modos:anyway
+en cualquier lugar:anywhere
+aparentemente:apparently
+son:are
+alrededor:around
+como:as
+a un lado:aside
+preguntar:ask
+preguntó:asked
+en:at
+de distancia:away
+un tiempo:awhile
+espalda:back
+mal:bad
+mal:badly
+ser:be
+se convirtió en:became
+porque:because
+convertido:become
+estado:been
+antes:before
+comenzó:began
+comenzar:begin
+comenzando:beginning
+comenzado:begun
+detrás:behind
+siendo:being
+creer:believe
+al lado:beside
+mejor:best
+mejor:better
+entre:between
+más allá:beyond
+grande:big
+tanto:both
+traer:bring
+traído:brought
+pero:but
+por:by
+llamada:called
+vino:came
+puede:can
+no puede:cannot
+no puede:cant
+cuidado:careful
+cuidadosamente:carefully
+cierta:certain
+oportunidad:chance
+cambio:change
+cambiado:changed
+comprobado:checked
+eligió:chose
+elegido:chosen
+claro:clear
+Cerrar:close
+cerrado:closed
+estrechamente:closely
+más cerca:closer
+llegado:come
+viene:comes
+viene:coming
+continuado:continued
+el control:control
+podía:could
+no podía:couldn't
+curso:course
+decidido:decided
+negar:deny
+a pesar de:despite
+hizo:did
+no lo hizo:didn't
+diferente:different
+difícil:difficult
+hacer:do
+hace:does
+¿no:doesn't
+haciendo:doing
+no:don't
+done:done
+duda:doubt
+dudado:doubted
+cada:each
+anterior:earlier
+temprana:early
+más fácil:easier
+fácilmente:easily
+fácil:easy
+esfuerzo:effort
+ya sea:either
+demás:else
+fin:end
+suficiente:enough
+toda:entire
+incluso:even
+nunca:ever
+cada:every
+todo el mundo:everyone
+todo:everything
+exactamente:exactly
+excepto:except
+esperar:expect
+espera:expected
+explicar:explain
+adicional:extra
+hecho:fact
+ahora:far
+rápido:fast
+sentir:feel
+sentimiento:feeling
+sentido:felt
+pocos:few
+finalmente:finally
+encontrar:find
+fina:fine
+terminado:finished
+primero:first
+seguido:followed
+para:for
+encontrado:found
+desde:from
+completo:full
+dio:gave
+conseguir:get
+obtiene:gets
+conseguir:getting
+dar:give
+dado:given
+ir:go
+va:goes
+ir:going
+se ha ido:gone
+buena:good
+conseguido:got
+conseguido:gotten
+gran:great
+suelo:ground
+tenido:had
+no tenía:hadn't
+sucedido:happened
+duro:hard
+apenas:hardly
+tiene:has
+tener:have
+tener:having
+él:he
+él'd:he'd
+él's:he's
+held:held
+ayudar:help
+su:her
+aquí:here
+él:him
+a sí mismo:himself
+su:his
+mantenga:hold
+cómo:how
+sin embargo:however
+herido:hurt
+yo:I
+idea:idea
+si:if
+inmediatamente:immediately
+importante:important
+imposible:impossible
+en:in
+lugar:instead
+interesante:interesting
+en:into
+es:is
+no es:isn't
+que:it
+su:its
+sí:itself
+sólo:just
+mantener:keep
+mantiene:keeps
+guardado:kept
+tipo:kind
+sabía:knew
+saber:know
+sabiendo:knowing
+conocida:known
+sabe:knows
+última:last
+tarde:late
+más tarde:later
+se inclinó:leaned
+aprendido:learned
+menos:least
+dejar:leave
+izquierda:left
+menos:less
+dejar que:let
+gusta:like
+gustado:liked
+probable:likely
+gustos:likes
+poco:little
+largo:long
+ya:longer
+buscar:look
+mirado:looked
+buscando:looking
+miradas:looks
+perdido:lost
+mucho:lot
+hecho:made
+hacer:make
+marcas:makes
+la toma de:making
+gestionado:managed
+muchos:many
+cuestión:matter
+puede:may
+tal vez:maybe
+me:me
+significará:mean
+medios:means
+significado:meant
+mera:mere
+simplemente:merely
+cumplido:met
+podría:might
+mente:mind
+mina:mine
+minuetos:minuets
+confundido:mistaken
+momento:moment
+momentos:moments
+más:more
+más:most
+en su mayoría:mostly
+movimiento:move
+movido:moved
+movimiento:moving
+mucho:much
+debe:must
+mi:my
+yo mismo:myself
+cerca:near
+cercano:nearby
+casi:nearly
+necesitará:need
+necesario:needed
+ni:neither
+nunca:never
+nuevo:new
+siguiente:next
+agradable:nice
+no:no
+nadie:nobody
+ninguno:none
+normalmente:normally
+no:not
+nada:nothing
+aviso:notice
+notado:noticed
+ahora:now
+ninguna parte:nowhere
+número:number
+obvio:obvious
+ocurrido:occurred
+impar:odd
+de:of
+off:off
+menudo:often
+en:on
+una vez:once
+uno:one
+sólo:only
+en:onto
+abierta:open
+abierto:opened
+o:or
+ordinariamente:ordinarily
+otros:other
+otros:others
+de lo contrario:otherwise
+nuestra:our
+salida:out
+fuera:outside
+sobre:over
+propio:own
+parte:part
+pasado:passed
+pasado:past
+personas:people
+quizás:perhaps
+lugar:place
+satisfechos:pleased
+punto:point
+posible:possible
+posiblemente:possibly
+probablemente:probably
+problema:problem
+tirado:pulled
+poner:put
+rápida:quick
+rápidamente:quickly
+tranquila:quiet
+dejar de fumar:quit
+bastante:quite
+corrió:ran
+lugar:rather
+llegar:reach
+alcanzado:reached
+listo:ready
+reales:real
+realizado:realized
+realmente:really
+razón:reason
+reconocido:recognized
+permanecer:remain
+recordar:remember
+recordado:remembered
+recordó:reminded
+requerida:required
+resto:rest
+retorno:return
+devuelto:returned
+derecho:right
+dicho:said
+misma:same
+sat:sat
+sierra:saw
+decir:say
+dice:says
+segundo:second
+ver:see
+ver:seeing
+parece:seem
+parecido:seemed
+parece:seems
+visto:seen
+sentido:sense
+enviado:sent
+grave:serious
+conjunto:set
+varios:several
+cuota:share
+compartida:shared
+ella:she
+debe:should
+no debe:shouldn't
+espectáculo:show
+mostró:showed
+se muestra:shown
+lado:side
+vista:sight
+signo:sign
+silencio:silence
+desde:since
+lenta:slow
+así:so
+algunos:some
+de alguna manera:somehow
+alguien:someone
+algo:something
+a veces:sometimes
+algo:somewhat
+en algún lugar:somewhere
+pronto:soon
+Cuanto antes:sooner
+especie:sort
+sonar:sound
+de pie:standing
+miró:stared
+mirando:staring
+inicio:start
+comenzado:started
+comenzando:starting
+quedarse:stay
+escalonada:stepped
+todavía:still
+destacado:stood
+Deténgase:stop
+detenido:stopped
+tales:such
+de repente:suddenly
+supuesta:supposed
+seguro:sure
+sorpresa:surprise
+sorprendido:surprised
+tomar:take
+tomado:taken
+tomando:taking
+hablado:talked
+hablar:talking
+decir:tell
+que:than
+que:that
+que's:that's
+la:the
+su:their
+ellos:them
+a continuación,:then
+hay:there
+éstos:these
+ellos:they
+ellos're:they're
+cosa:thing
+cosas:things
+pensar:think
+pensando:thinking
+este:this
+los:those
+aunque:though
+pensado:thought
+a través:through
+tiempo:time
+veces:times
+a:to
+juntos:together
+dicho:told
+demasiado:too
+tomó:took
+hacia:toward
+tratado:tried
+cierto:true
+tratar:try
+tratando:trying
+convertido:turned
+girando:turning
+dos:two
+tipo:type
+incapaces:unable
+bajo:under
+entender:understand
+entendida:understood
+a menos:unless
+hasta:until
+hasta:up
+sobre:upon
+nosotros:us
+uso:use
+usado:used
+útil:useful
+usos:uses
+utilizando:using
+habitual:usual
+por lo general:usually
+variar:vary
+muy:very
+espere:wait
+esperado:waited
+esperando:waiting
+querer:want
+querido:wanted
+era:was
+no era:wasn't
+residuos:waste
+ver:watch
+visto:watched
+viendo:watching
+camino:way
+formas:ways
+nosotros:we
+así:well
+se fue:went
+eran:were
+no eran:weren't
+qué:what
+qué's:what's
+cualquiera que sea:whatever
+alguna:whatsoever
+cuando:when
+donde:where
+donde:wherever
+si:whether
+que:which
+mientras:while
+quien:who
+quienquiera:whoever
+todo:whole
+quien:whom
+por qué:why
+lo hará:will
+con:with
+dentro:within
+sin:without
+pregunto:wonder
+palabra:word
+palabras:words
+trabajo:work
+trabajado:worked
+trabajo:working
+peor:worse
+peor:worst
+vale la pena:worth
+haría:would
+no lo haría:wouldn't
+mal:wrong
+años:years
+aún:yet
+usted:you
+su:your
