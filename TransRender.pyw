@@ -69,7 +69,7 @@ def filesave():
 root = Tk()
 root.geometry("850x400")
 root.title("TransRender")
-root.iconbitmap(r'C:\\Users\\stree\\PycharmProjects\\pythonProject2\\dist\\chili-pepper.ico')
+root.iconbitmap(r'chili-pepper.ico')
 v=tk.Scrollbar(root, orient='vertical')
 v.pack(side='right', fill='y')
 menubar = Menu(root)
