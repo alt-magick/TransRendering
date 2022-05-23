@@ -1,8 +1,11 @@
-#!/usr/bin/env python3
-
 from tkinter import Tk, Text, Menu
+from tkinter import filedialog as fd
+from os.path import exists
 import os
 import re
+import tkinter as tk
+
+
 
 def spanish():
     saved = gui.get('1.0', 'end')
@@ -48,28 +51,63 @@ def english():
     gui.delete('1.0', 'end')
     gui.insert('1.0', writeto.read())
 
+def fileopen():
+    filename = fd.askopenfilename()
+    opened = open(filename, 'r', encoding="utf-8")
+    gui.delete('1.0', 'end')
+    gui.insert('1.0', opened.read())
+
+def filesave():
+    text = gui.get('1.0', 'end')
+    file = fd.asksaveasfilename(
+        filetypes=[("*.txt", ".txt")],
+        defaultextension=".txt")
+    fw = open(file, 'w')
+    fw.write(text)
+    fw.close()
+
 root = Tk()
 root.geometry("850x400")
 root.title("TransRender")
+v=tk.Scrollbar(root, orient='vertical')
+v.pack(side='right', fill='y')
 menubar = Menu(root)
 root.config(menu=menubar)
 file_menu = Menu(menubar)
+trans_menu = Menu(menubar)
 file_menu.add_command(
+    label='Open',
+    command=fileopen,
+)
+
+file_menu.add_command(
+    label='Save',
+    command=filesave,
+)
+
+trans_menu.add_command(
     label='To Spanish',
     command=spanish,
 )
-file_menu.add_command(
+trans_menu.add_command(
     label='To English',
     command=english,
 )
 menubar.add_cascade(
-    label="Translate",
+    label="File",
     menu=file_menu,
     underline=0
 )
-gui = Text(root, height=850, width=400)
+menubar.add_cascade(
+    label="Translate",
+    menu=trans_menu,
+    underline=0
+)
+gui = Text(root, height=850, width=400, yscrollcommand=v.set)
+v.config(command=gui.yview)
 gui.pack()
-
 root.mainloop()
-os.remove('in.txt')
-os.remove('out.txt')
+if exists('in.txt'):
+    os.remove('in.txt')
+if exists('out.txt'):
+    os.remove('out.txt')
