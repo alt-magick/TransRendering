@@ -4,8 +4,6 @@ from os.path import exists
 import os
 import re
 import tkinter as tk
-import subprocess, sys
-
 
 def spanish():
     saved = gui.get('1.0', 'end')
