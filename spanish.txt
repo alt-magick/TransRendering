@@ -1,315 +1,345 @@
-a:un
-able:capaces
-about:acerca
-actually:realidad
+a:a
+able:capaz
+about:acerca de
+above:arriba
+actually:de hecho
 after:después
-again:nuevo
+again:de nuevo
+against:contra
+agree:aceptar
 agreed:acordado
 all:todo
+allow:permitir
 almost:casi
 already:ya
 also:también
-although:aunque
+although:a pesar de
 always:siempre
-am:am
+am:soy
 an:un
 and:y
-another:otra
+another:otro
 answer:respuesta
 any:cualquier
-anymore:más
-anyone:nadie
-anything:nada
+anymore:ya no
+anyone:alguien
+anything:cualquier cosa
 anyway:de todos modos
 anywhere:en cualquier lugar
 apparently:aparentemente
 are:son
 around:alrededor
 as:como
-aside:a un lado
+aside:aparte
 ask:preguntar
 asked:preguntó
 at:en
-away:de distancia
-awhile:un tiempo
-back:espalda
-bad:mal
-badly:mal
+away:lejos
+awhile:Un rato
+back:atrás
+bad:malo
+badly:gravemente
 be:ser
-became:se convirtió en
+became:convertirse
 because:porque
-become:convertido
+become:convertirse
 been:estado
 before:antes
 began:comenzó
 begin:comenzar
-beginning:comenzando
+beginning:comienzo
 begun:comenzado
 behind:detrás
-being:siendo
+being:ser
 believe:creer
-beside:al lado
+beside:al lado de
 best:mejor
 better:mejor
 between:entre
-beyond:más allá
+beyond:más allá de
 big:grande
-both:tanto
+block:bloquear
+both:ambos
+break:romper
 bring:traer
-brought:traído
+brought:trajo
 but:pero
 by:por
-called:llamada
+called:llamado
 came:vino
-can:puede
-cannot:no puede
-cant:no puede
-careful:cuidado
-carefully:cuidadosamente
-certain:cierta
+can:poder
+cannot:no puedo
+cant:no poder
+care:cuidado
+careful:cuidadoso
+carefully:con cuidado
+caught:atrapó
+certain:cierto
 chance:oportunidad
-change:cambio
-changed:cambiado
+change:cambiar
+changed:cambió
 checked:comprobado
+choose:elegir
 chose:eligió
 chosen:elegido
 clear:claro
-close:Cerrar
+close:cerca
 closed:cerrado
-closely:estrechamente
-closer:más cerca
-come:llegado
-comes:viene
-coming:viene
+closely:cercanamente
+closer:cerca
+come:venir
+comes:llega
+coming:próximo
+compare:comparar
+continue:continuar
 continued:continuado
-control:el control
-could:podía
-couldn't:no podía
+control:control
+could:podría
+couldn't:no pude
 course:curso
+create:crear
+current:actual
 decided:decidido
-deny:negar
+deny:denegar
+depend:depender
 despite:a pesar de
 did:hizo
-didn't:no lo hizo
+didn't:no
 different:diferente
 difficult:difícil
 do:hacer
 does:hace
-doesn't:¿no
+doesn't:no
 doing:haciendo
 don't:no
-done:done
+done:hecho
 doubt:duda
 doubted:dudado
+down:abajo
+during:durante
 each:cada
-earlier:anterior
-early:temprana
+earlier:más temprano
+early:temprano
 easier:más fácil
 easily:fácilmente
 easy:fácil
 effort:esfuerzo
-either:ya sea
+either:cualquiera
 else:demás
 end:fin
 enough:suficiente
-entire:toda
+enter:ingresar
+entire:completo
+equal:igual
 even:incluso
-ever:nunca
+ever:alguna vez
 every:cada
-everyone:todo el mundo
+everyone:todos
 everything:todo
 exactly:exactamente
 except:excepto
 expect:esperar
-expected:espera
+expected:esperado
 explain:explicar
-extra:adicional
+extra:extra
 fact:hecho
-far:ahora
+far:lejos
 fast:rápido
 feel:sentir
 feeling:sentimiento
-felt:sentido
+felt:sintió
 few:pocos
 finally:finalmente
 find:encontrar
-fine:fina
-finished:terminado
+fine:bien
+finished:finalizado
 first:primero
 followed:seguido
 for:para
-found:encontrado
-from:desde
-full:completo
+found:encontró
+from:de
+full:lleno
+gather:recolectar
 gave:dio
+general:general
 get:conseguir
 gets:obtiene
 getting:conseguir
+girl:chica
 give:dar
 given:dado
 go:ir
 goes:va
-going:ir
-gone:se ha ido
-good:buena
-got:conseguido
+going:yendo
+gone:desaparecido
+good:bien
+got:consiguió
 gotten:conseguido
-great:gran
-ground:suelo
-had:tenido
-hadn't:no tenía
-happened:sucedido
+great:excelente
+had:tenía
+hadn't:no había
+happened:sucedió
 hard:duro
-hardly:apenas
+hardly:difícilmente
 has:tiene
 have:tener
-having:tener
+having:teniendo
 he:él
-he'd:él había
+he'd:él
 he's:él es
-held:held
-help:ayudar
+head:cabeza
+heard:escuchó
+held:sostuvo
+help:ayuda
 her:su
 here:aquí
-him:él
-himself:a sí mismo
+him:a él
+himself:él mismo
 his:su
-hold:mantenga
+hold:sostener
 how:cómo
 however:sin embargo
-hurt:herido
-I:yo
+hurt:herir
+I:I
 idea:idea
 if:si
 immediately:inmediatamente
 important:importante
 impossible:imposible
 in:en
-instead:lugar
+instead:en cambio
 interesting:interesante
 into:en
 is:es
 isn't:no es
-it:que
-its:su
-itself:sí
-just:sólo
+it:él
+its:es
+itself:sí mismo
+join:unirse
+just:justo
 keep:mantener
 keeps:mantiene
-kept:guardado
-kind:tipo
+kept:conservó
+kind:amable
 knew:sabía
 know:saber
-knowing:sabiendo
-known:conocida
+knowing:conocimiento
+known:conocido
 knows:sabe
-last:última
+lady:dama
+last:último
 late:tarde
 later:más tarde
-leaned:se inclinó
-learned:aprendido
-least:menos
+leaned:inclinado
+learned:aprendió
+least:el menos
 leave:dejar
 left:izquierda
 less:menos
-let:dejar que
-like:gusta
-liked:gustado
+let:dejar
+lie:mentir
+like:como
+liked:apreciado
 likely:probable
 likes:gustos
-little:poco
+listen:escuchar
+little:pequeño
 long:largo
-longer:ya
-look:buscar
-looked:mirado
-looking:buscando
-looks:miradas
+longer:más extenso
+look:mirar
+looked:miró
+looking:mirando
+looks:aspecto
 lost:perdido
-lot:mucho
+lot:lote
+love:amar
 made:hecho
 make:hacer
 makes:marcas
-making:la toma de
-managed:gestionado
+making:haciendo
+managed:administrado
 many:muchos
-matter:cuestión
+matter:asunto
 may:puede
 maybe:tal vez
-me:me
-mean:significará
-means:medios
-meant:significado
-mere:mera
-merely:simplemente
-met:cumplido
+me:a mí
+mean:significar
+means:medio
+meant:quiso decir
+meet:encontrarse
+mere:mero
+merely:meramente
+met:reunió
 might:podría
 mind:mente
-mine:mina
+mine:mío
 minuets:minuetos
-mistaken:confundido
+mistaken:equivocado
 moment:momento
 moments:momentos
 more:más
-most:más
-mostly:en su mayoría
-move:movimiento
+most:mayoría
+mostly:principalmente
+move:mover
 moved:movido
-moving:movimiento
+moving:Moviente
 much:mucho
 must:debe
 my:mi
-myself:yo mismo
+myself:mí mismo
 near:cerca
 nearby:cercano
-nearly:casi
-need:necesitará
+nearly:cerca de
+need:necesidad
 needed:necesario
 neither:ni
 never:nunca
 new:nuevo
-next:siguiente
-nice:agradable
-no:no
+next:próximo
+nice:lindo
+no:No
 nobody:nadie
 none:ninguno
 normally:normalmente
 not:no
 nothing:nada
 notice:aviso
-noticed:notado
+noticed:observó
 now:ahora
-nowhere:ninguna parte
+nowhere:en ningún lugar
 number:número
 obvious:obvio
-occurred:ocurrido
-odd:impar
+occurred:ocurrió
+odd:extraño
 of:de
-off:off
-often:menudo
+off:apagado
+often:a menudo
+old:viejo
 on:en
 once:una vez
 one:uno
-only:sólo
-onto:en
-open:abierta
-opened:abierto
+only:solo
+onto:sobre
+open:abierto
+opened:abrió
 or:o
 ordinarily:ordinariamente
-other:otros
+other:otro
 others:otros
 otherwise:de lo contrario
-our:nuestra
-out:salida
-outside:fuera
-over:sobre
+our:nuestro
+out:afuera
+over:encima
 own:propio
 part:parte
-passed:pasado
+passed:aprobado
 past:pasado
-people:personas
-perhaps:quizás
+people:gente
+perhaps:tal vez
+person:persona
 place:lugar
-pleased:satisfechos
+plain:plano
+pleased:complacido
 point:punto
 possible:posible
 possibly:posiblemente
@@ -317,202 +347,207 @@ probably:probablemente
 problem:problema
 pulled:tirado
 put:poner
-quick:rápida
+quick:rápido
 quickly:rápidamente
-quiet:tranquila
-quit:dejar de fumar
+quiet:tranquilo
+quit:abandonar
 quite:bastante
 ran:corrió
-rather:lugar
-reach:llegar
-reached:alcanzado
+rather:bastante
+reach:alcanzar
+reached:alcanzó
 ready:listo
-real:reales
-realized:realizado
-really:realmente
+real:real
+realized:comprendió
+really:en realidad
 reason:razón
-recognized:reconocido
+recognized:Reconocido
 remain:permanecer
 remember:recordar
 remembered:recordado
 reminded:recordó
-required:requerida
-rest:resto
-return:retorno
+repeat:repetir
+require:requerir
+required:requerido
+rest:descansar
+return:devolver
 returned:devuelto
-right:derecho
+right:bien
 said:dicho
-same:misma
-sat:sat
+same:mismo
 saw:sierra
 say:decir
 says:dice
+search:buscar
 second:segundo
 see:ver
-seeing:ver
-seem:parece
-seemed:parecido
+seeing:vidente
+seem:parecer
+seemed:pareció
 seems:parece
 seen:visto
+send:enviar
 sense:sentido
 sent:enviado
 serious:grave
-set:conjunto
+set:colocar
 several:varios
-share:cuota
-shared:compartida
+share:compartir
+shared:compartido
 she:ella
-should:debe
-shouldn't:no debe
+should:debería
+shouldn't:no debería
 show:espectáculo
-showed:mostró
-shown:se muestra
+showed:presentado
+shown:mostrado
 side:lado
 sight:vista
-sign:signo
+sign:firmar
 silence:silencio
+simple:simple
 since:desde
-slow:lenta
-so:así
-some:algunos
+slow:lento
+so:entonces
+some:alguno
 somehow:de alguna manera
 someone:alguien
 something:algo
 sometimes:a veces
-somewhat:algo
+somewhat:un poco
 somewhere:en algún lugar
 soon:pronto
-sooner:Cuanto antes
-sort:especie
-sound:sonar
-standing:de pie
-stared:miró
-staring:mirando
-start:inicio
-started:comenzado
-starting:comenzando
-stay:quedarse
-stepped:escalonada
-still:todavía
-stood:destacado
-stop:Deténgase
-stopped:detenido
-such:tales
+sooner:cuanto antes
+sort:clasificar
+start:comenzar
+started:comenzó
+starting:a partir de
+stay:permanecer
+stepped:pisado
+still:aún
+stood:permaneció
+stop:detener
+stopped:interrumpido
+such:semejante
+sudden:repentino
 suddenly:de repente
-supposed:supuesta
+supposed:supuesto
 sure:seguro
 surprise:sorpresa
 surprised:sorprendido
-take:tomar
+take:llevar
 taken:tomado
 taking:tomando
-talked:hablado
-talking:hablar
+talked:habló
+talking:hablando
 tell:decir
 than:que
-that:que
+that:eso
 that's:eso es
-the:la
+the:el
 their:su
-them:ellos
-then:a continuación,
-there:hay
-these:éstos
+them:a ellos
+then:entonces
+there:allá
+these:estos
 they:ellos
-they're:son
+they're:ellos son
 thing:cosa
 things:cosas
 think:pensar
-thinking:pensando
+thinking:pensamiento
 this:este
-those:los
+those:aquellos
 though:aunque
-thought:pensado
-through:a través
+thought:pensamiento
+through:a través de
+thus:de este modo
 time:tiempo
 times:veces
 to:a
 together:juntos
-told:dicho
-too:demasiado
+told:dijo
+too:también
 took:tomó
 toward:hacia
-tried:tratado
-true:cierto
-try:tratar
-trying:tratando
-turned:convertido
-turning:girando
-two:dos
+tried:intentó
+trouble:problema
+true:verdadero
+try:intentar
+trying:intentando
+turned:transformado
+turning:torneado
 type:tipo
-unable:incapaces
+unable:incapaz
 under:bajo
 understand:entender
-understood:entendida
-unless:a menos
+understood:comprendido
+unless:a menos que
 until:hasta
-up:hasta
-upon:sobre
-us:nosotros
-use:uso
+up:arriba
+upon:al
+us:a nosotros
+use:usar
 used:usado
 useful:útil
 uses:usos
-using:utilizando
+using:usando
 usual:habitual
-usually:por lo general
+usually:generalmente
 vary:variar
 very:muy
-wait:espere
+wait:esperar
 waited:esperado
-waiting:esperando
-want:querer
-wanted:querido
+waiting:espera
+want:desear
+wanted:buscado
 was:era
-wasn't:no era
-waste:residuos
-watch:ver
-watched:visto
-watching:viendo
-way:camino
-ways:formas
+wasn't:no fue
+watch:mirar
+watched:observó
+watching:mirando
+way:forma
+ways:maneras
 we:nosotros
-well:así
-went:se fue
+well:Bueno
+went:fue
 were:eran
 weren't:no eran
 what:qué
-what's:lo que es
-whatever:cualquiera que sea
-whatsoever:alguna
+what's:qué
+whatever:lo que
+whatsoever:lo que
 when:cuando
-where:donde
-wherever:donde
+where:dónde
+wherever:lo que sea
 whether:si
-which:que
+which:cual
 while:mientras
-who:quien
-whoever:quienquiera
-whole:todo
-whom:quien
+who:OMS
+whoever:quien
+whole:entero
+whom:a quien
+whose:cuyo
 why:por qué
-will:lo hará
+will:voluntad
 with:con
 within:dentro
 without:sin
-wonder:pregunto
+won't:no
+wonder:preguntarse
 word:palabra
 words:palabras
-work:trabajo
-worked:trabajado
-working:trabajo
+work:trabajar
+worked:trabajó
+working:laboral
 worse:peor
-worst:peor
-worth:vale la pena
+worst:el peor
+worth:valer
 would:haría
 wouldn't:no lo haría
-wrong:mal
+wrong:equivocado
+year:año
 years:años
-yet:aún
-you:usted
+yes:Sí
+yet:todavía
+you:tú
 your:su
